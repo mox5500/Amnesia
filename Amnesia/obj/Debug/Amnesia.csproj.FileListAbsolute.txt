@@ -1,0 +1,10 @@
+c:\users\senpai\documents\visual studio 2012\Projects\Amnesia\Amnesia\bin\Debug\Amnesia.exe.config
+c:\users\senpai\documents\visual studio 2012\Projects\Amnesia\Amnesia\bin\Debug\Amnesia.exe
+c:\users\senpai\documents\visual studio 2012\Projects\Amnesia\Amnesia\bin\Debug\Amnesia.pdb
+c:\users\senpai\documents\visual studio 2012\Projects\Amnesia\Amnesia\obj\Debug\Amnesia.csprojResolveAssemblyReference.cache
+c:\users\senpai\documents\visual studio 2012\Projects\Amnesia\Amnesia\obj\Debug\Amnesia.Form1.resources
+c:\users\senpai\documents\visual studio 2012\Projects\Amnesia\Amnesia\obj\Debug\Amnesia.Properties.Resources.resources
+c:\users\senpai\documents\visual studio 2012\Projects\Amnesia\Amnesia\obj\Debug\Amnesia.csproj.GenerateResource.Cache
+c:\users\senpai\documents\visual studio 2012\Projects\Amnesia\Amnesia\obj\Debug\Amnesia.exe
+c:\users\senpai\documents\visual studio 2012\Projects\Amnesia\Amnesia\obj\Debug\Amnesia.pdb
+c:\users\senpai\documents\visual studio 2012\Projects\Amnesia\Amnesia\obj\Debug\Amnesia.Form2.resources
